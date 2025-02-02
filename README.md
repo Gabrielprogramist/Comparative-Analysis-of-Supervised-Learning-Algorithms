@@ -20,7 +20,7 @@ This project performs a comparative analysis of multiple supervised learning alg
 You can install the required libraries using pip:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
-
+```
 **How to Run**
 
 1.  Place the `insurance.csv` file in the same directory as the Jupyter Notebook.
